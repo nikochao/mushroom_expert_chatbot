@@ -1,0 +1,12 @@
+.DS_Store
+.vscode/
+__pycache__/
+*.py[cod]
+mushroomenv/
+
+# Keep assignment materials local until they are reviewed.
+README.md
+transcript.txt
+data/
+
+
